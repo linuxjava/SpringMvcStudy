@@ -38,5 +38,15 @@
         <input type="submit" value="提交">
     </form>
 
+    <h3>自定义类型转换器</h3>
+    <form method="post" action="/user/testParam3">
+        用户名:<input type="text" name="name"/><br>
+        年龄:<input type="text" name="aget"/><br>
+        生日:<input type="text" name="date"/><br>
+        <input type="submit" value="提交">
+    </form>
+
+    <h3>原生API</h3>
+    <a href="/user/testServlet">原生API</a>
 </body>
 </html>

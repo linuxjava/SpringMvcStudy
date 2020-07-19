@@ -9,6 +9,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/day01_02springmvc_request_param/pom.xml" />
         <option value="$PROJECT_DIR$/day01_01springmvc_start/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_03springmvc_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_04springmvc_response/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_02normal_upload/pom.xml" />
+        <option value="$PROJECT_DIR$/fileUploadServer/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_03springmvc_exception_intercepter/pom.xml" />
       </list>
     </option>
   </component>

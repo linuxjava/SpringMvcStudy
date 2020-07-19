@@ -8,11 +8,21 @@
         <outputRelativeToContentRoot value="true" />
         <module name="day01_01springmvc_start" />
         <module name="day01_02springmvc_request_param" />
+        <module name="day01_03springmvc_annotation" />
+        <module name="day01_04springmvc_response" />
+        <module name="day02_02normal_upload" />
+        <module name="day02_03springmvc_exception_intercepter" />
+        <module name="fileUploadServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="day01_01springmvc_start" target="1.7" />
       <module name="day01_02springmvc_request_param" target="1.7" />
+      <module name="day01_03springmvc_annotation" target="1.7" />
+      <module name="day01_04springmvc_response" target="1.7" />
+      <module name="day02_02normal_upload" target="1.7" />
+      <module name="day02_03springmvc_exception_intercepter" target="1.7" />
+      <module name="fileUploadServer" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
