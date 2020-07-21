@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/day01_04springmvc_response/day01_04springmvc_response.iml" filepath="$PROJECT_DIR$/day01_04springmvc_response/day01_04springmvc_response.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02_02normal_upload/day02_02normal_upload.iml" filepath="$PROJECT_DIR$/day02_02normal_upload/day02_02normal_upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02_03springmvc_exception_intercepter/day02_03springmvc_exception_intercepter.iml" filepath="$PROJECT_DIR$/day02_03springmvc_exception_intercepter/day02_03springmvc_exception_intercepter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day03_01springmvc_ssm/day03_01springmvc_ssm.iml" filepath="$PROJECT_DIR$/day03_01springmvc_ssm/day03_01springmvc_ssm.iml" />
       <module fileurl="file://$PROJECT_DIR$/fileUploadServer/fileUploadServer.iml" filepath="$PROJECT_DIR$/fileUploadServer/fileUploadServer.iml" />
     </modules>
   </component>

@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 
 @Controller
 @RequestMapping("/user")
-public class ExceptionController {
+public class UserController {
 
     @RequestMapping("/testException")
     public String testException() throws Exception {
@@ -23,6 +23,11 @@ public class ExceptionController {
         return "success";
     }
 
+    @RequestMapping("/testInterceptor")
+    public String testInterceptor(){
+        System.out.println("testInterceptor");
+        return "interceptor";
+    }
 }
 
 
