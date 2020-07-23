@@ -14,6 +14,7 @@
 # Response
 - day01_04springmvc_response
     - 返回数据相关
+    - 配置释放静态资源
     
 # 文件上传
 - day02_02normal_upload和fileUploadServer
